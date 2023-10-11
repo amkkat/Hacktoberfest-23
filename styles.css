@@ -23,6 +23,7 @@ body {
     background-color: #f2f3f7;
     color: #1d1d11;
     border-radius: 10px;
+    text-decoration: underline;
 }
 .navbar .logo {
     float: left;
